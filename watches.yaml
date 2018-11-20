@@ -1,0 +1,6 @@
+---
+- version: v1alpha1
+  group: helloworld.example.com
+  kind: HelloWorld
+  playbook: /opt/ansible/example.yml
+  manageStatus: false
